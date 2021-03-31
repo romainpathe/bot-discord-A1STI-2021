@@ -1,0 +1,12 @@
+{
+    "name": "Morpion for STI",
+    "active": true,
+    "top": 10,
+    "time": 180,
+    "nbgame": 0,
+    "nextlevelxp": 1000,
+    "color": "648329",
+    "emoji": {
+        "game": "809180942383579196"
+    }
+}

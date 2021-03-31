@@ -1,0 +1,332 @@
+[
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1
+        ],
+        "sentence": "{player} est arrivé.e en retard au premier cours de l'année.",
+        "action": 1,
+        "value": -1
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1
+        ],
+        "sentence": "{player} a tutoyé l'enseignant, croyant parler a un élève.",
+        "action": 1,
+        "value": -0.5
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            6
+        ],
+        "sentence": "{player} a raté ses partiels.",
+        "action": 2,
+        "value": -2
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            6
+        ],
+        "sentence": "{player} a réussi ses partiels.",
+        "action": 2,
+        "value": 2
+    },
+    {
+        "rarity": 10,
+        "level": 0,
+        "month": [
+            6
+        ],
+        "sentence": "{player} a réussi ses rattrapages.",
+        "action": 2,
+        "value": 1
+    },
+    {
+        "rarity": 30,
+        "level": 0,
+        "month": [
+            6
+        ],
+        "sentence": "{player} est allé aux rattrapages.",
+        "action": 2,
+        "value": -1
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} n'avait pas suivi le cours de méca, et a foiré son quizz.",
+        "action": 2,
+        "value": -1
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a largement surestimé son niveau de maths.",
+        "action": 2,
+        "value": -1
+    },
+    {
+        "rarity": 30,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} n'avait pas préparé sa fiche de maths, et a du passer au tableau.",
+        "action": 2,
+        "value": -1.5
+    },
+    {
+        "rarity": 40,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} déprime seul.e devant le zoom de méca.",
+        "action": 1,
+        "value": -1
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} aurait peut être du écouter plus en info.",
+        "action": 2,
+        "value": -1
+    },
+    {
+        "rarity": 10,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a fait trop le malin.",
+        "action": 2,
+        "value": -2
+    },
+    {
+        "rarity": 10,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a oublié son masque.",
+        "action": 1,
+        "value": -0.5
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a réussi son contrôle de math!",
+        "action": 2,
+        "value": 1
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a réussi son contrôle de méca!",
+        "action": 2,
+        "value": 1
+    },
+    {
+        "rarity": 10,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a eu un éclair de génie.",
+        "action": 2,
+        "value": 1
+    },
+    {
+        "rarity": 5,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} est un génie.",
+        "action": 2,
+        "value": 1
+    },
+    {
+        "rarity": 1,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} est chauve.",
+        "action": 1,
+        "value": -0.5
+    },
+    {
+        "rarity": 1,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} s'est fait rouler dessus.",
+        "action": 1,
+        "value": -20
+    },
+    {
+        "rarity": 1,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} est littéralement mort d'ennui en informatique.",
+        "action": 1,
+        "value": -20
+    },
+    {
+        "rarity": 5,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a oublié de ce mute lorsqu'il a critiqué la prof d'informatique !",
+        "action": 1,
+        "value": -5
+    },
+    {
+        "rarity": 20,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a mal à la tête toute la journée !",
+        "action": 2,
+        "value": -0.5
+    },
+    {
+        "rarity": 10,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a trop manger le midi !",
+        "action": 2,
+        "value": -1.5
+    },
+    {
+        "rarity": 5,
+        "level": 0,
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "sentence": "{player} a oublié de prendre de l'argent pour le repas de midi !",
+        "action": 1,
+        "value": -1
+    }
+]
